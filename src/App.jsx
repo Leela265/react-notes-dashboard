@@ -4,7 +4,7 @@ import NotesCount from "./components/NotesCount";
 
 function App() {
   return (
-    <div>
+    <div className="container">
       <h1>Notes Dashboard</h1>
 
       <NoteInput />
